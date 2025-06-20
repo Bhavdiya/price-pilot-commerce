@@ -23,7 +23,7 @@ Absolutely! Here’s a well-structured README.md tailored for your Price Pilot C
 ---
 
 ## 📁 Folder Structure
-
+```
 price-pilot-commerce/
 └── price-pilot-commerce-main/
 ├── public/              # Static assets
@@ -35,7 +35,7 @@ price-pilot-commerce/
 ├── tailwind.config.ts   # Tailwind setup
 ├── vite.config.ts       # Vite configuration
 └── tsconfig.json        # TypeScript settings
-
+```
 ---
 
 ## 🛠️ Getting Started
